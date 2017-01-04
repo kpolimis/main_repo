@@ -69,3 +69,4 @@ var/
 
 #Ipython Notebook
 *.ipynb_checkpoints
+.Rproj.user
